@@ -25,3 +25,6 @@ pnpm-debug.log*
 *.pem
 *.tsbuildinfo
 .local-git/
+
+.vercel
+.git-askpass.cmd
